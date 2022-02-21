@@ -1,0 +1,48 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "satyawikananda",
+      "name": "I Gusti Ngurah Satya Wikananda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33148052?v=4",
+      "profile": "https://satyawikananda.vercel.app",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "zuramai",
+      "name": "Ahmad Saugi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45036724?v=4",
+      "profile": "http://ahmadsaugi.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ifirmawan",
+      "name": "Iwan firmawan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20871229?v=4",
+      "profile": "https://ifirmawan.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "elucidator-blog-starter",
+  "projectOwner": "satyawikananda",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
